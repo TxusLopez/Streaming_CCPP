@@ -17,3 +17,8 @@ THE CODE
 The "script.py" script is used to generate the final results. It uses the scikit-learn framework (PassiveAggressiveRegressor, SGDRegressor, and MLPRegressor techniques). It also uses the scikit-multiflow framework (RegressionHoeffdingTree and RegressionHAT techniques, and also the ADWIN drift detector). The framework scikit-garden is used for MondrianForestRegressor and MondrianTreeRegressor techniques.
 
 The "evaluatePrequential_ENERGIA_v2.py" script is used for the streaming evaluation. This file should be placed in the corresponding folder of the scikit-multiflow package: '.../scikit-multiflow-master/src/skmultiflow/evaluation'
+
+-----------
+DATASET
+-----------
+The dataset is "CCPP_data.csv"
