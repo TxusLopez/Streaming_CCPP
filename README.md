@@ -1,2 +1,6 @@
 # Streaming_CCPP
 Streaming Regressors for Electrical Power Prediction in a Combined Cycle Power Plant
+
+The prediction of electrical power is a key issue in combined cycle power plants (CCPPs). The power output of a plant can vary depending on environmental variables (temperature, pressure, humidity), and the challenge here arises whn we have to predict this power output as a function of these environmental conditions in order to maximize the profit from the available megawatt hours. With the application of machine learning techniques (i.e. regression algorithms), researchers have solved this problem and have managed to reduce the computational and time costs in comparison with the traditional thermodynamical analysis. This challenge has been tackled from a batch learning view hitherto, where data are assumed to be at rest, and where regression models do not continuously integrate new information into already constructed models. 
+
+The approach here is closer to the Big Data and IoT paradigms in which data arrive continuously and where regression models have to learn incrementally. These scripts compare and examine the hourly electrical power prediction of some of the most used stream regression algorithms, and discuss about the best technique in terms of time processing and performance to be applied on this streaming scenario.
