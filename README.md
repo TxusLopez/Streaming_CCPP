@@ -22,3 +22,18 @@ The "evaluatePrequential_ENERGIA_v2.py" script is used for the streaming evaluat
 DATASET
 -----------
 The dataset is "CCPP_data.csv"
+
+---------
+CITATION
+---------
+
+If you want to cite this work in a scientific publication, please use the following Bibtex entry:
+
+@article{lobo2019real,
+  title={Real-time Electrical Power Prediction in a Combined Cycle Power Plant},
+  author={Lobo, Jesus L and Ballesteros, Igor and Oregi, Izaskun and Del Ser, Javier},
+  journal={arXiv preprint arXiv:1907.11653},
+  year={2019}
+}
+
+
